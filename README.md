@@ -21,7 +21,9 @@ beginProcess "Create a node.js app that will return the reverse of a provided in
 The agent will then provide a thought process, action description, and command to be executed. It will continue executing commands until it reaches a conclusion or until you stop the script.
 
 ![Screenshot 2023-04-05 142018](https://user-images.githubusercontent.com/13717390/230002007-c28f065a-792d-4f00-8d22-388d76033783.png)
+  
 **Figure: Running a series of commands to create a node.js app**
 
 ![Screenshot 2023-04-05 135216](https://user-images.githubusercontent.com/13717390/230002081-a80b35c6-e461-4e02-9dcf-aee26fe0e9cf.png)
+  
 **Figure: And...it works!**
